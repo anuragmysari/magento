@@ -22,4 +22,3 @@
 - Run the application as a SpringBoot Application.
 - Application is configured locally on port 8081
 - Corresponding Swagger API documentation can be found at http://localhost:8081/swagger-ui.html#/
-- Corresponding SonarLint report is available as a image file with name sonarlintReport.png
